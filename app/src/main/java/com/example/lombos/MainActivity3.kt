@@ -2,19 +2,10 @@ package com.example.lombos
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import android.widget.*
 
-class MainActivity : AppCompatActivity() {
+class MainActivity3 : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_main)
+        setContentView(R.layout.activity_main3)
     }
 }
-
-var LName:
-var LEmail:
-var LPass:
-var LConfP:
-
-
-        val LSUbutton
